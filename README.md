@@ -1,6 +1,6 @@
 # 📸 Gallery for M5Stack Cardputer ADV
 Turn your M5Stack Cardputer into a lightweight photo viewer.
-Update! V2.0
+Update! V3.0
 ---
 
 ## 📺 Demo
