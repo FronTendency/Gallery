@@ -18,7 +18,7 @@ Update! V2.0
 - 📁 Folder Support: You can now create multiple albums inside the /Pictures directory.
 - 🗂️ Folder Selection Menu: Press the - ' -  key to switch between your photo folders.
 - 🖼️ Redesigned UI: All menu panels have been completely overhauled for a cleaner look.
-- 🖼️ Format Support: jpg, png, bmp.
+- 🖼️ Format Support: .jpg, .png, .bmp, and .gif.
 - ℹ️ File Info: Press L to see format, weight, and filename.
 - ⚙️ Performance improvements and bug fixes.
   
@@ -29,10 +29,8 @@ Update! V2.0
 - The app now supports a nested directory structure. Create a main folder named Pictures, and inside it, create subfolders for your albums.
 ```
 -Image Requirements:
-   Format: Must be in .jpg, .png, or .bmp format.
+   Format: Must be in .jpg, .png, .bmp or .gif format.
     Resolution: Optimized for 240 x 135 pixels (16:9 aspect ratio) to fit the Cardputer screen.
-    File Size: The preferred image size is up to 600 KB.
-    Note: Larger images might work, but they have not been tested yet.
 ```
 > Directory Structure Preview:
 ![Folder Structure](пикчур.jpg)
@@ -42,12 +40,12 @@ SD Card Root
 └── 📁 Pictures
     ├── 📁 Summer_2025
     │   ├── photo1.jpg
-    │   └── photo2.jpg
+    │   └── favCar.gif
     └── 📁 Wallpapers
         └── cat.png
 ```
 > **ℹ️ Test Images:**
-> In the **Releases** section, you can find a `Picture.zip` archive with sample images.
+> In the **Releases** section, you can find a `Picture.zip` and `gifs.zip`  archive with sample images.
 > Put your images inside the subfolders, not directly in the root /Pictures folder.
 ### 2. Launch the App
 - Insert the SD card into your Cardputer.
