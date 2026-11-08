@@ -67,7 +67,7 @@ SD Card Root
 1. Download the latest .bin file from the releases page.
 
 2. Flash it via M5Burner or m5launcher (OTA).
-    - Search for: Gallery_for_cardputer_ADV
+    - Search for: Gallery
     - Author: @Frontendency
    
 👨‍💻 Contacts:<br>
